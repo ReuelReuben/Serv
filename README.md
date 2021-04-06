@@ -1,5 +1,5 @@
 # Serv
-Please just download these files and copy paste this in the /openlane/designs/serv/src
+Please just download the above given files and copy paste this in the /openlane/designs/serv/src
 
 Try Running the synthesis 
 
